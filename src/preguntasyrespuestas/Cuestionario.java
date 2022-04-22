@@ -6,7 +6,11 @@ import javax.swing.JOptionPane;
 
 public class Cuestionario {
 
-	public static void main(String[] args) {
+    /**
+     *
+     * @param args
+     */
+    public static void Cuestionario(String[] args) {
 		/* JUEGO TRIVIAL*/
 
 		System.out.println("Juego trivial con 10 preguntas y 4 posibles respuestas. Si eliges la respuesta correcta ganas 2 puntos, "
